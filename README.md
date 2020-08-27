@@ -20,11 +20,17 @@
 
   
 
-CentOS7安装： [https://github.com/yuxianye/MicroService/blob/master/CentOS7%E5%AE%89%E8%A3%85.md](https://github.com/yuxianye/MicroService/blob/master/CentOS7安装.md)
+CentOS7安装配置： [https://github.com/yuxianye/MicroService/blob/master/CentOS7.md](https://github.com/yuxianye/MicroService/blob/master/CentOS7.md)
+
+CentOS7设置yum源：[https://github.com/yuxianye/MicroService/blob/master/yum.md](https://github.com/yuxianye/MicroService/blob/master/yum.md)
+
+CentOS7安装配置Redis：[https://github.com/yuxianye/MicroService/blob/master/Redis.md](https://github.com/yuxianye/MicroService/blob/master/Redis.md)
+
+CentOS7安装配置Docker：[https://github.com/yuxianye/MicroService/blob/master/Docker.md](https://github.com/yuxianye/MicroService/blob/master/Docker.md)
+
+CentOS7安装配置MySQL8：[https://github.com/yuxianye/MicroService/blob/master/MySQL.md](https://github.com/yuxianye/MicroService/blob/master/MySQL.md)
 
 
-
-设置yum源：
 
 
 
